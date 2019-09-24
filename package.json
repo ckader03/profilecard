@@ -1,5 +1,6 @@
 {
   "name": "new-cards",
+  "homepage" : "http://ckader03.github.io/profilecard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
